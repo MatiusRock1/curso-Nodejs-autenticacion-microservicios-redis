@@ -1,2 +1,2 @@
-# curso-Nodejs-autenticacion-microservicios-redis
-curso Nodejs-autenticacion-microservicios-redis
+# proyecto-backend-node-platzi
+Proyecto del curso avanzado de backend con NodeJS 
